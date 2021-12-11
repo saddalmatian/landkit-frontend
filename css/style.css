@@ -1,0 +1,55 @@
+.container{
+    width: 1050px;
+}
+.nav-item{
+    margin-left: 15px;
+    margin-right: 15px;
+}    
+.nav-link{
+    text-decoration: none;
+    color: #000000;
+}
+.navdiv{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+.navdivul{
+    margin-left: auto;
+    margin-right: auto;
+}
+.welcome{
+    margin-top: 200px;
+}
+.features{
+    margin-top: 100px;
+}
+.features h3{
+    font-size:large;
+}
+.brands{
+    margin-top: 100px;
+    padding: 50px;
+}
+.about{
+    padding-top: 100px;
+    background-image: linear-gradient(whitesmoke, white);
+    margin-bottom: 100px;
+}
+.no-outline{
+    border-top-style: hidden;
+    border-right-style: hidden;
+    border-left-style: hidden;
+    border-bottom-style: ridge;
+}
+.img-skewed{
+    perspective: 1500px;
+    transform-style: preserve-3d;
+}
+.img-skewed-item{
+    transform:rotateY(-35deg) rotateX(15deg);
+}
+.screenshot{
+    border-radius:0.5rem;
+    overflow: visible;
+}
