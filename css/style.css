@@ -53,3 +53,15 @@
     border-radius:0.5rem;
     overflow: visible;
 }
+.stat{
+    margin-bottom: 150px;
+}
+.pricing{
+    padding: 0px 200px;
+}
+.faq{
+    margin-top: 200px;
+}
+.ms-5{
+    margin-left: 1.5rem!important;
+}
